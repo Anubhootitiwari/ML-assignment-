@@ -16,9 +16,3 @@ This script splits the Iris dataset into training and testing sets with an 80-20
 ### 3. `linear_regression.py`
 This script performs linear regression using a sample dataset with features `YearsExperience` and `Salary`. It evaluates the model's performance using Mean Squared Error (MSE).
 
-## Instructions
-
-1. Ensure you have Python installed on your machine.
-2. Install the required libraries using pip:
-   ```bash
-   pip install numpy pandas scikit-learn
